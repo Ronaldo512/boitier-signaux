@@ -1,0 +1,2 @@
+Le code permet de générer des signaux carrés de fréquence basse et de rapport cyclique variable. Cette mise en place permet de simuler des coups de pelle sur des pipelines.
+Ce dispositif innovant a été conçu pour tester et analyser la propagation du signal tout au long des gazoducs et oléoducs. Le projet a débuté par la conception d'un système d'impulsions électriques capable de reproduire des conditions réalistes à l'aide de signaux à ondes carrées.
